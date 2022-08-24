@@ -1,0 +1,13 @@
+D:\werk\vb programming\varcons\varcons\obj\Debug\varcons.vbproj.AssemblyReference.cache
+D:\werk\vb programming\varcons\varcons\obj\Debug\varcons.vbproj.SuggestedBindingRedirects.cache
+D:\werk\vb programming\varcons\varcons\obj\Debug\varcons.BookSalesForm.resources
+D:\werk\vb programming\varcons\varcons\obj\Debug\varcons.Resources.resources
+D:\werk\vb programming\varcons\varcons\obj\Debug\varcons.vbproj.GenerateResource.cache
+D:\werk\vb programming\varcons\varcons\obj\Debug\varcons.vbproj.CoreCompileInputs.cache
+D:\werk\vb programming\varcons\varcons\bin\Debug\varcons.exe.config
+D:\werk\vb programming\varcons\varcons\bin\Debug\varcons.exe
+D:\werk\vb programming\varcons\varcons\bin\Debug\varcons.pdb
+D:\werk\vb programming\varcons\varcons\bin\Debug\varcons.xml
+D:\werk\vb programming\varcons\varcons\obj\Debug\varcons.exe
+D:\werk\vb programming\varcons\varcons\obj\Debug\varcons.xml
+D:\werk\vb programming\varcons\varcons\obj\Debug\varcons.pdb
